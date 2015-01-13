@@ -1,5 +1,3 @@
-package Project8;
-
 import wheelsunh.users.*;
 import java.awt.Color;
 import java.awt.Dimension;
