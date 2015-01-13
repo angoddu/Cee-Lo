@@ -1,5 +1,7 @@
 # Cee-Lo
 Cee-Lo dice game
+Fall 2014 project
+Created b Andrew Goddu
 
 This project uses the wheelsunh.jar library
 
