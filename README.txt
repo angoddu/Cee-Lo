@@ -1,6 +1,8 @@
 # Cee-Lo
 Cee-Lo dice game
 
+This project uses the wheelsunh.jar library
+
 Terms:
 --Pair-point: A roll consisting of two equal numbers and one different number, for example a 4-4-5 would be called a “pair-5”
 --Ace negative: Pair-1
