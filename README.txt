@@ -1,9 +1,9 @@
 # Cee-Lo
 Cee-Lo dice game
 Fall 2014 project
-Created b Andrew Goddu
+Created by Andrew Goddu
 
-This project uses the wheelsunh.jar library
+This project uses the wheelsunh.jar library.
 
 Terms:
 --Pair-point: A roll consisting of two equal numbers and one different number, for example a 4-4-5 would be called a “pair-5”
